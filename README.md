@@ -6,3 +6,5 @@ User's must connect a MetaMask wallet to use the app. User's submit a song and h
 
 This is a Buildspace project, completed with the Ginan cohort.
 
+View the project here: https://music-share.kayhill.repl.co/
+
