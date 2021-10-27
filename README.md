@@ -1,15 +1,8 @@
-# Basic Sample Hardhat Project
+# Web3 App: Leave a Song, Win some ETH
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+An Ethereum aplication with a simple smart contract written in Solidity. I used Hardhat for building and testing this app in my local environment, before deploying to the Rinkeby Test Network and connecting with a React-App UI.
 
-Try running some of the following tasks:
+User's must connect a MetaMask wallet to use the app. User's submit a song and have a 1 in 4 chance of winning some (test) ETH!
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+This is a Buildspace project, completed with the Ginan cohort.
+
